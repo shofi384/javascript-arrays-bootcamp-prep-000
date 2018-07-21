@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var chocolateBars = new Array();
 chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles'];
 
@@ -43,3 +44,6 @@ function removeElementFromEndOfArray(array) {
   return array.slice(0, array.length-1);
 }
 
+=======
+var chocolateBars = ['kitkat', 'snicker']
+>>>>>>> a810596d8ed0bb7fd308db317d0177228c7a419f
